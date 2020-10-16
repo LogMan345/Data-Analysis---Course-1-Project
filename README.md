@@ -25,4 +25,8 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 4. Does each plot appear correct?
 5. Does each set of R code appear to create the reference plot?
 
+## MakeMyGraphs
+This function has been included because i thought it would be nice to have it all in one neat little package that can be run and just present you with the files for the graphs.
+please do not take this without express permission.
+
 
